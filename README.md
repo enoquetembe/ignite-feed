@@ -123,7 +123,7 @@ npm run dev
 <br>
 
 ## 💻 Live Demo
-- You can see the application in live through [THIS LINK](https://haditdays.netlify.app/)
+- You can see the application in live through [THIS LINK](https://ignitefeeds.netlify.app/)
 
 <br>
 
