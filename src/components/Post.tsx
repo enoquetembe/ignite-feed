@@ -109,7 +109,7 @@ export function Post({ author, publishedAt, content }: PostProps) {
         <textarea
           className="w-full h-24 mt-4 p-4 resize-none border-0 rounded-lg
           bg-gray-1 text-gray-7 leading-[1.4] focus:outline-none focus:ring-2 focus:ring-green-300 "
-          placeholder="Deixe seu comentário"
+          placeholder="Leave your comment"
           value={newComment}
           onChange={handleNewCommentChange}
           required
