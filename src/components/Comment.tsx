@@ -54,7 +54,7 @@ export function Comment({ content, onDeleteComment }: CommentProps) {
             onClick={handleApplaudComment}
             className="text-gray-5 flex items-center hover:text-green-1"
           >
-            <ThumbsUp className="mr-2" /> Aplaudir
+            <ThumbsUp className="mr-2" /> Applaud
             <span className="before:py-0 before:px-1 before:content-['\2022']">
               {applaudCount}
             </span>
