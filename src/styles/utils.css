@@ -1,0 +1,4 @@
+.commentForm:focus-within footer {
+  visibility: visible;
+  max-height: none;
+}
