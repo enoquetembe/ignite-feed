@@ -123,7 +123,7 @@ export function Post({ author, publishedAt, content }: PostProps) {
             py-4 px-6 border-0 rounded-lg hover:bg-green-2 transition-colors 
             disabled:opacity-70 disabled:hover:bg-green-1 disabled:cursor-not-allowed"
           >
-            Comentar
+            Comment
           </button>
         </footer>
       </form>
