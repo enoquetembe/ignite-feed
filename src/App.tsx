@@ -12,13 +12,13 @@ const posts = [
     },
 
     content: [
-      { type: "paragraph", content: "Fala galeraa 👋 " },
+      { type: "paragraph", content: "Wassup guys? 👋 " },
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifolio. É um projeto quefiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "I just added another project to my portfolio. It's a project I did at NLW Return, a Rocketseat event. Project name is DoctorCare 🚀",
       },
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "enoque.design/doctorcare" },
     ],
 
     publishedAt: new Date("2023-04-14 22:00:00"),
@@ -33,13 +33,13 @@ const posts = [
     },
 
     content: [
-      { type: "paragraph", content: "Fala galeraa 👋 " },
+      { type: "paragraph", content: "Wassup devs? 👋 " },
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifolio. É um projeto quefiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "I finally finalized my new website/portfolio. It was quite a challenge to create the whole design and scratch it on the nail, but I did it 💪🏻",
       },
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "Log in and leave your feedback 👉 luzidio.design" },
     ],
 
     publishedAt: new Date("2023-04-11 20:00:00"),

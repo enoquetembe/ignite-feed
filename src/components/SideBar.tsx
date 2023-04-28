@@ -23,10 +23,10 @@ export function Sidebar() {
         <footer className="border-t border-t-gray-3 px-8 pt-6 pb-8 mt-6">
           <a
             href="#"
-            className="flex items-center gap-2 justify-center h-[50px] px-6 py-0 font-bold bg-transparent text-green-2 border border-green-2 rounded-lg hover:bg-green-2 hover:text-white transition-colors"
+            className="flex items-center gap-2 justify-center h-[50px] px-8 py-0 font-bold bg-transparent text-green-2 border border-green-2 rounded-lg hover:bg-green-2 hover:text-white transition-colors"
           >
             <PencilLine size={20} />
-            Editar seu perfil
+            Edit profile
           </a>
         </footer>
       </section>
