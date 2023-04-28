@@ -103,7 +103,7 @@ export function Post({ author, publishedAt, content }: PostProps) {
         onSubmit={handleCreateNewComment}
       >
         <strong className="leading-[1.6] text-gray-7">
-          Deixe seu feedback
+          Leave your feedback
         </strong>
 
         <textarea
