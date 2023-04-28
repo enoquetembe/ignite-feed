@@ -10,7 +10,7 @@ interface Author {
   avatarUrl: string;
 }
 
-interface Content {
+export interface Content {
   type: "paragraph" | "link";
   content: string;
 }

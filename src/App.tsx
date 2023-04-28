@@ -1,5 +1,5 @@
 import { Header } from "./components/Header";
-import { Post } from "./components/Post";
+import { Content, Post } from "./components/Post";
 import { Sidebar } from "./components/SideBar";
 
 const posts = [
@@ -19,7 +19,7 @@ const posts = [
           "I just added another project to my portfolio. It's a project I did at NLW Return, a Rocketseat event. Project name is DoctorCare 🚀",
       },
       { type: "link", content: "enoque.design/doctorcare" },
-    ],
+    ] as Content[],
 
     publishedAt: new Date("2023-04-14 22:00:00"),
   },
@@ -40,7 +40,7 @@ const posts = [
           "I finally finalized my new website/portfolio. It was quite a challenge to create the whole design and scratch it on the nail, but I did it 💪🏻",
       },
       { type: "link", content: "Log in and leave your feedback 👉 luzidio.design" },
-    ],
+    ] as Content[],
 
     publishedAt: new Date("2023-04-11 20:00:00"),
   },
